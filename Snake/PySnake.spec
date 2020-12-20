@@ -4,9 +4,9 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\plays\\Development\\Snake'],
+             pathex=['C:\\Users\\plays\\OneDrive\\Documents\\GitHub\\Snake-in-Python\\Snake'],
              binaries=[],
-             datas=[('buildassets', '.'),('buildassets/Images/*', 'buildassets/Images'),('buildassets/Sounds/*', 'buildassets/Sounds')],
+             datas=[("assets/Images/*", "assets/Images"), ("assets/Sounds/*", "assets/Sounds")],
              hiddenimports=[],
              hookspath=[],
              runtime_hooks=[],

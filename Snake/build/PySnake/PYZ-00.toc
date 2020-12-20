@@ -1,29 +1,7 @@
-('C:\\Users\\plays\\Development\\Snake\\build\\PySnake\\PYZ-00.pyz',
+('C:\\Users\\plays\\OneDrive\\Documents\\GitHub\\Snake-in-Python\\Snake\\build\\PySnake\\PYZ-00.pyz',
  [('pkg_resources',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\pkg_resources\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
-  ('string', 'c:\\program files\\python39\\lib\\string.py', 'PYMODULE'),
-  ('pkg_resources._vendor.packaging.specifiers',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.six',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
-   'PYMODULE'),
-  ('struct', 'c:\\program files\\python39\\lib\\struct.py', 'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.tags',
    'c:\\program '
@@ -35,6 +13,7 @@
   ('ctypes._endian',
    'c:\\program files\\python39\\lib\\ctypes\\_endian.py',
    'PYMODULE'),
+  ('struct', 'c:\\program files\\python39\\lib\\struct.py', 'PYMODULE'),
   ('distutils.util',
    'c:\\program files\\python39\\lib\\distutils\\util.py',
    'PYMODULE'),
@@ -174,20 +153,13 @@
   ('distutils.errors',
    'c:\\program files\\python39\\lib\\distutils\\errors.py',
    'PYMODULE'),
+  ('string', 'c:\\program files\\python39\\lib\\string.py', 'PYMODULE'),
   ('importlib.util',
    'c:\\program files\\python39\\lib\\importlib\\util.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
+  ('pkg_resources._vendor',
    'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.version',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
-   'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'c:\\program '
@@ -524,21 +496,49 @@
   ('bdb', 'c:\\program files\\python39\\lib\\bdb.py', 'PYMODULE'),
   ('cmd', 'c:\\program files\\python39\\lib\\cmd.py', 'PYMODULE'),
   ('pprint', 'c:\\program files\\python39\\lib\\pprint.py', 'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
   ('pkg_resources._vendor.packaging.utils',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.markers',
+  ('pkg_resources._vendor.packaging',
    'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging._structures',
    'c:\\program '
    'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
+  ('pkg_resources._vendor.appdirs',
    'c:\\program '
-   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\program '
+   'files\\python39\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
   ('sysconfig', 'c:\\program files\\python39\\lib\\sysconfig.py', 'PYMODULE'),
   ('importlib.machinery',
@@ -571,11 +571,11 @@
   ('zipimport', 'c:\\program files\\python39\\lib\\zipimport.py', 'PYMODULE'),
   ('zipfile', 'c:\\program files\\python39\\lib\\zipfile.py', 'PYMODULE'),
   ('__future__', 'c:\\program files\\python39\\lib\\__future__.py', 'PYMODULE'),
-  ('stringprep', 'c:\\program files\\python39\\lib\\stringprep.py', 'PYMODULE'),
   ('_py_abc', 'c:\\program files\\python39\\lib\\_py_abc.py', 'PYMODULE'),
   ('tracemalloc',
    'c:\\program files\\python39\\lib\\tracemalloc.py',
    'PYMODULE'),
+  ('stringprep', 'c:\\program files\\python39\\lib\\stringprep.py', 'PYMODULE'),
   ('random', 'c:\\program files\\python39\\lib\\random.py', 'PYMODULE'),
   ('statistics', 'c:\\program files\\python39\\lib\\statistics.py', 'PYMODULE'),
   ('fractions', 'c:\\program files\\python39\\lib\\fractions.py', 'PYMODULE'),
