@@ -1,4 +1,4 @@
-# Snake in Python
+# PySnake
  It's snake, not much else to say
  
 # Instructions
